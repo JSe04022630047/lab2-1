@@ -1,0 +1,10 @@
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\obj\Debug\Lab2-1.csproj.AssemblyReference.cache
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\obj\Debug\Lab2_1.formLogin.resources
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\obj\Debug\Lab2_1.Properties.Resources.resources
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\obj\Debug\Lab2-1.csproj.GenerateResource.cache
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\obj\Debug\Lab2-1.csproj.CoreCompileInputs.cache
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\bin\Debug\Lab2-1.exe.config
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\bin\Debug\Lab2-1.exe
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\bin\Debug\Lab2-1.pdb
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\obj\Debug\Lab2-1.exe
+C:\Users\Gcan\source\repos\year2\66-040226-30047\Lab2-1\obj\Debug\Lab2-1.pdb
